@@ -10,6 +10,6 @@
       "MigrosApiEndpoint": "https://hackzurich-api.migros.ch"
     },
     "Host": {
-      "CORS": "http://localhost:3000,http://localhost:4200,http://localhost:5000,http://localhost:8080"
+      "CORS": "https://proud-ground-096850403.azurestaticapps.net/,http://localhost:3000,http://localhost:4200,http://localhost:5000,http://localhost:8080"
     }
   }
